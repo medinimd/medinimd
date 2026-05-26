@@ -1,4 +1,3 @@
-[github_profile_readme_preview.html](https://github.com/user-attachments/files/28251918/github_profile_readme_preview.html)
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Sora:wght@400;500;600&display=swap');
