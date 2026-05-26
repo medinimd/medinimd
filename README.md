@@ -7,10 +7,15 @@ I'm a Backend Java Developer who builds things that actually work at scale — m
 ## 🛠️ What I Work With
 
 **Languages & Frameworks**
-- Java · Spring Boot · Spring Cloud · Spring Security
+- Java · Spring Boot · Python
 
 **Architecture**
 - Microservices · REST API Design · Event-Driven Systems · Service Mesh
+
+**System Design**
+- HLD . LLD
+- REST API Design and Development
+- GraphQL
 
 **Databases**
 - Oracle · MySQL · SQL (and the dark art of query optimization)
@@ -18,24 +23,14 @@ I'm a Backend Java Developer who builds things that actually work at scale — m
 **Tools & Practices**
 - Maven · Git · Docker · Postman · IntelliJ IDEA
 - Clean Code · SOLID Principles · API-First Design
+- Design Patterns
+- ELK . Prometheus 
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
 Building out a microservices-based project that explores service discovery, API gateway patterns, and inter-service communication — the kind of stuff that's easy to get wrong and satisfying to get right.
-
----
-
-## 📌 Projects
-
-### 🔹 [Project Name] — *Brief tagline about what it does*
-Built with Spring Boot + MySQL. Short sentence on what problem it solves and what's interesting about the architecture.
-> `Java` `Spring Boot` `REST API` `MySQL`
-
-### 🔹 [Project Name] — *Brief tagline*
-What it does, what you learned, why it's worth looking at.
-> `Java` `Microservices` `Spring Cloud` `Oracle`
 
 ---
 
@@ -49,8 +44,7 @@ What it does, what you learned, why it's worth looking at.
 
 I'm open to Backend Java / Spring Boot / Microservices roles. If you're building something interesting in that space — or just want to talk architecture — reach out.
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
-- 📧 your.email@example.com
+- 📧 medinimd00@gmail.com
 
 ---
 
